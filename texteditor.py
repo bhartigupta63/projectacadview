@@ -126,7 +126,7 @@ findM.add_command(label='Find',command = find_pattern)
 
 
 #adding icons
-'''
+
 frame1=Frame(root)
 frame1.pack()
 
@@ -160,7 +160,7 @@ l7 = Label(frame1,text='Find text')
 b7.grid(row=0,column=4)
 l7.grid(row=1,column=4)
 
-'''
+
 textPad.pack()
 
 root.mainloop()
